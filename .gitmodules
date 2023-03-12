@@ -1,3 +1,6 @@
 [submodule "turtle_racing"]
 	path = turtle_racing
 	url = https://github.com/milo18818/turtle_racing.git
+[submodule "number_game"]
+	path = number_game
+	url = https://github.com/milo18818/number_game.git
